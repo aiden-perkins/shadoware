@@ -1,0 +1,17 @@
+:root {
+    --b1: hsl(0, 0%, 10%);
+    --b2: hsl(0, 0%, 18%);
+    --b3: hsl(0, 0%, 22%);
+    --b4: hsl(0, 0%, 40%);
+    --b5: hsl(0, 0%, 70%);
+    --b6: hsl(0, 0%, 100%);
+    --p1: #c095fc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--b2);
+    margin: 0;
+    padding: 0;
+    color: var(--b5);
+}

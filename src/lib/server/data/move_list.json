@@ -1,0 +1,2576 @@
+[
+    {
+        "name": "wrap",
+        "typing": "normal",
+        "power": 60,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2050,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2900
+    },
+    {
+        "name": "hyper beam",
+        "typing": "normal",
+        "power": 150,
+        "energyDelta": 100,
+        "damageWindowStartMs": 3300,
+        "damageWindowEndMs": 3600,
+        "durationMs": 3800
+    },
+    {
+        "name": "dark pulse",
+        "typing": "dark",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2300,
+        "durationMs": 3000
+    },
+    {
+        "name": "sludge",
+        "typing": "poison",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1550,
+        "durationMs": 2100
+    },
+    {
+        "name": "vice grip",
+        "typing": "normal",
+        "power": 35,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1500,
+        "durationMs": 1900
+    },
+    {
+        "name": "flame wheel",
+        "typing": "fire",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2400,
+        "durationMs": 2700
+    },
+    {
+        "name": "megahorn",
+        "typing": "bug",
+        "power": 110,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "durationMs": 2200
+    },
+    {
+        "name": "flamethrower",
+        "typing": "fire",
+        "power": 70,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1700,
+        "durationMs": 2200
+    },
+    {
+        "name": "dig",
+        "typing": "ground",
+        "power": 100,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2800,
+        "damageWindowEndMs": 4500,
+        "durationMs": 4700
+    },
+    {
+        "name": "cross chop",
+        "typing": "fighting",
+        "power": 50,
+        "energyDelta": 50,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1200,
+        "durationMs": 1500
+    },
+    {
+        "name": "psybeam",
+        "typing": "psychic",
+        "power": 70,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2700,
+        "durationMs": 3200
+    },
+    {
+        "name": "earthquake",
+        "typing": "ground",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2700,
+        "damageWindowEndMs": 3500,
+        "durationMs": 3600
+    },
+    {
+        "name": "stone edge",
+        "typing": "rock",
+        "power": 100,
+        "energyDelta": 100,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2300
+    },
+    {
+        "name": "ice punch",
+        "typing": "ice",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1900
+    },
+    {
+        "name": "heart stamp",
+        "typing": "psychic",
+        "power": 40,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1900
+    },
+    {
+        "name": "discharge",
+        "typing": "electric",
+        "power": 65,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2500
+    },
+    {
+        "name": "flash cannon",
+        "typing": "steel",
+        "power": 100,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2500,
+        "durationMs": 2700
+    },
+    {
+        "name": "drill peck",
+        "typing": "flying",
+        "power": 65,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2300
+    },
+    {
+        "name": "ice beam",
+        "typing": "ice",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2800,
+        "durationMs": 3300
+    },
+    {
+        "name": "blizzard",
+        "typing": "ice",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2900,
+        "durationMs": 3100
+    },
+    {
+        "name": "heat wave",
+        "typing": "fire",
+        "power": 95,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2800,
+        "durationMs": 3000
+    },
+    {
+        "name": "aerial ace",
+        "typing": "flying",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1900,
+        "damageWindowEndMs": 2200,
+        "durationMs": 2400
+    },
+    {
+        "name": "drill run",
+        "typing": "ground",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2800
+    },
+    {
+        "name": "petal blizzard",
+        "typing": "grass",
+        "power": 110,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2300,
+        "durationMs": 2600
+    },
+    {
+        "name": "mega drain",
+        "typing": "grass",
+        "power": 25,
+        "energyDelta": 50,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2600
+    },
+    {
+        "name": "bug buzz",
+        "typing": "bug",
+        "power": 100,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 3100,
+        "durationMs": 3700
+    },
+    {
+        "name": "poison fang",
+        "typing": "poison",
+        "power": 35,
+        "energyDelta": 33,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1700
+    },
+    {
+        "name": "night slash",
+        "typing": "dark",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2200
+    },
+    {
+        "name": "bubble beam",
+        "typing": "water",
+        "power": 45,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1450,
+        "damageWindowEndMs": 1700,
+        "durationMs": 1900
+    },
+    {
+        "name": "submission",
+        "typing": "fighting",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2200
+    },
+    {
+        "name": "low sweep",
+        "typing": "fighting",
+        "power": 40,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 1650,
+        "durationMs": 1900
+    },
+    {
+        "name": "aqua jet",
+        "typing": "water",
+        "power": 45,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2600
+    },
+    {
+        "name": "aqua tail",
+        "typing": "water",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1650,
+        "durationMs": 1900
+    },
+    {
+        "name": "seed bomb",
+        "typing": "grass",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1900,
+        "durationMs": 2100
+    },
+    {
+        "name": "psyshock",
+        "typing": "psychic",
+        "power": 65,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2700
+    },
+    {
+        "name": "ancient power",
+        "typing": "rock",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2850,
+        "damageWindowEndMs": 3100,
+        "durationMs": 3500
+    },
+    {
+        "name": "rock tomb",
+        "typing": "rock",
+        "power": 70,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2250,
+        "damageWindowEndMs": 3000,
+        "durationMs": 3200
+    },
+    {
+        "name": "rock slide",
+        "typing": "rock",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2700
+    },
+    {
+        "name": "power gem",
+        "typing": "rock",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1950,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2900
+    },
+    {
+        "name": "shadow sneak",
+        "typing": "ghost",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2200,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2900
+    },
+    {
+        "name": "shadow punch",
+        "typing": "ghost",
+        "power": 40,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 1500,
+        "durationMs": 1700
+    },
+    {
+        "name": "ominous wind",
+        "typing": "ghost",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1850,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2300
+    },
+    {
+        "name": "shadow ball",
+        "typing": "ghost",
+        "power": 100,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2400,
+        "damageWindowEndMs": 2800,
+        "durationMs": 3000
+    },
+    {
+        "name": "magnet bomb",
+        "typing": "steel",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2200,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2800
+    },
+    {
+        "name": "iron head",
+        "typing": "steel",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 1700,
+        "durationMs": 1900
+    },
+    {
+        "name": "parabolic charge",
+        "typing": "electric",
+        "power": 65,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "durationMs": 2800
+    },
+    {
+        "name": "thunder punch",
+        "typing": "electric",
+        "power": 45,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1550,
+        "durationMs": 1800
+    },
+    {
+        "name": "thunder",
+        "typing": "electric",
+        "power": 100,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2200,
+        "durationMs": 2400
+    },
+    {
+        "name": "thunderbolt",
+        "typing": "electric",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2300,
+        "durationMs": 2500
+    },
+    {
+        "name": "twister",
+        "typing": "dragon",
+        "power": 45,
+        "energyDelta": 33,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2800
+    },
+    {
+        "name": "dragon pulse",
+        "typing": "dragon",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2150,
+        "damageWindowEndMs": 3300,
+        "durationMs": 3600
+    },
+    {
+        "name": "dragon claw",
+        "typing": "dragon",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1300,
+        "durationMs": 1700
+    },
+    {
+        "name": "disarming voice",
+        "typing": "fairy",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 3200,
+        "damageWindowEndMs": 3500,
+        "durationMs": 3900
+    },
+    {
+        "name": "draining kiss",
+        "typing": "fairy",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1300,
+        "durationMs": 2600
+    },
+    {
+        "name": "dazzling gleam",
+        "typing": "fairy",
+        "power": 100,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 3300,
+        "durationMs": 3500
+    },
+    {
+        "name": "moonblast",
+        "typing": "fairy",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2200,
+        "damageWindowEndMs": 3700,
+        "durationMs": 3900
+    },
+    {
+        "name": "play rough",
+        "typing": "fairy",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2900
+    },
+    {
+        "name": "cross poison",
+        "typing": "poison",
+        "power": 40,
+        "energyDelta": 33,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1300,
+        "durationMs": 1500
+    },
+    {
+        "name": "sludge bomb",
+        "typing": "poison",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2300
+    },
+    {
+        "name": "sludge wave",
+        "typing": "poison",
+        "power": 110,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 3000,
+        "durationMs": 3200
+    },
+    {
+        "name": "gunk shot",
+        "typing": "poison",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2700,
+        "durationMs": 3100
+    },
+    {
+        "name": "bone club",
+        "typing": "ground",
+        "power": 40,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1600
+    },
+    {
+        "name": "bulldoze",
+        "typing": "ground",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2600,
+        "damageWindowEndMs": 3100,
+        "durationMs": 3500
+    },
+    {
+        "name": "mud bomb",
+        "typing": "ground",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2300
+    },
+    {
+        "name": "signal beam",
+        "typing": "bug",
+        "power": 75,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2900
+    },
+    {
+        "name": "x scissor",
+        "typing": "bug",
+        "power": 45,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1600
+    },
+    {
+        "name": "flame charge",
+        "typing": "fire",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2900,
+        "damageWindowEndMs": 3450,
+        "durationMs": 3800
+    },
+    {
+        "name": "flame burst",
+        "typing": "fire",
+        "power": 70,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2600
+    },
+    {
+        "name": "fire blast",
+        "typing": "fire",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 3100,
+        "damageWindowEndMs": 3900,
+        "durationMs": 4200
+    },
+    {
+        "name": "brine",
+        "typing": "water",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2300
+    },
+    {
+        "name": "water pulse",
+        "typing": "water",
+        "power": 70,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2200,
+        "damageWindowEndMs": 2900,
+        "durationMs": 3200
+    },
+    {
+        "name": "scald",
+        "typing": "water",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 3400,
+        "durationMs": 3700
+    },
+    {
+        "name": "hydro pump",
+        "typing": "water",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 3000,
+        "durationMs": 3300
+    },
+    {
+        "name": "psychic",
+        "typing": "psychic",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2800
+    },
+    {
+        "name": "psystrike",
+        "typing": "psychic",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2300
+    },
+    {
+        "name": "icy wind",
+        "typing": "ice",
+        "power": 60,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2800,
+        "durationMs": 3300
+    },
+    {
+        "name": "giga drain",
+        "typing": "grass",
+        "power": 50,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2200,
+        "durationMs": 3900
+    },
+    {
+        "name": "fire punch",
+        "typing": "fire",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1900,
+        "durationMs": 2200
+    },
+    {
+        "name": "solar beam",
+        "typing": "grass",
+        "power": 180,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2700,
+        "damageWindowEndMs": 4700,
+        "durationMs": 4900
+    },
+    {
+        "name": "leaf blade",
+        "typing": "grass",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1250,
+        "damageWindowEndMs": 2200,
+        "durationMs": 2400
+    },
+    {
+        "name": "power whip",
+        "typing": "grass",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1250,
+        "damageWindowEndMs": 2350,
+        "durationMs": 2600
+    },
+    {
+        "name": "air cutter",
+        "typing": "flying",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2500,
+        "durationMs": 2700
+    },
+    {
+        "name": "hurricane",
+        "typing": "flying",
+        "power": 110,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "durationMs": 2700
+    },
+    {
+        "name": "brick break",
+        "typing": "fighting",
+        "power": 40,
+        "energyDelta": 33,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1600
+    },
+    {
+        "name": "swift",
+        "typing": "normal",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2800
+    },
+    {
+        "name": "horn attack",
+        "typing": "normal",
+        "power": 40,
+        "energyDelta": 33,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1650,
+        "durationMs": 1850
+    },
+    {
+        "name": "stomp",
+        "typing": "normal",
+        "power": 55,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1500,
+        "durationMs": 1700
+    },
+    {
+        "name": "hyper fang",
+        "typing": "normal",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2500
+    },
+    {
+        "name": "body slam",
+        "typing": "normal",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1700,
+        "durationMs": 1900
+    },
+    {
+        "name": "rest",
+        "typing": "normal",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1700,
+        "durationMs": 1900
+    },
+    {
+        "name": "struggle",
+        "typing": "normal",
+        "power": 35,
+        "energyDelta": 0,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2200
+    },
+    {
+        "name": "scald blastoise",
+        "typing": "water",
+        "power": 50,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 4600,
+        "durationMs": 4700
+    },
+    {
+        "name": "hydro pump blastoise",
+        "typing": "water",
+        "power": 90,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2200,
+        "damageWindowEndMs": 4300,
+        "durationMs": 4500
+    },
+    {
+        "name": "wrap green",
+        "typing": "normal",
+        "power": 25,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2050,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2900
+    },
+    {
+        "name": "wrap pink",
+        "typing": "normal",
+        "power": 25,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2050,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2900
+    },
+    {
+        "name": "fury cutter",
+        "typing": "bug",
+        "power": 3,
+        "energyDelta": 6,
+        "damageWindowStartMs": 100,
+        "damageWindowEndMs": 400,
+        "durationMs": 400
+    },
+    {
+        "name": "bug bite",
+        "typing": "bug",
+        "power": 5,
+        "energyDelta": 6,
+        "damageWindowStartMs": 250,
+        "damageWindowEndMs": 450,
+        "durationMs": 500
+    },
+    {
+        "name": "bite",
+        "typing": "dark",
+        "power": 6,
+        "energyDelta": 4,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "durationMs": 500
+    },
+    {
+        "name": "sucker punch",
+        "typing": "dark",
+        "power": 7,
+        "energyDelta": 8,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 700,
+        "durationMs": 700
+    },
+    {
+        "name": "dragon breath",
+        "typing": "dragon",
+        "power": 6,
+        "energyDelta": 4,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "durationMs": 500
+    },
+    {
+        "name": "thunder shock",
+        "typing": "electric",
+        "power": 5,
+        "energyDelta": 8,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 600,
+        "durationMs": 600
+    },
+    {
+        "name": "spark",
+        "typing": "electric",
+        "power": 6,
+        "energyDelta": 9,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 700,
+        "durationMs": 700
+    },
+    {
+        "name": "low kick",
+        "typing": "fighting",
+        "power": 6,
+        "energyDelta": 6,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 600,
+        "durationMs": 600
+    },
+    {
+        "name": "karate chop",
+        "typing": "fighting",
+        "power": 8,
+        "energyDelta": 10,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 800,
+        "durationMs": 800
+    },
+    {
+        "name": "ember",
+        "typing": "fire",
+        "power": 10,
+        "energyDelta": 10,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 800,
+        "durationMs": 1000
+    },
+    {
+        "name": "wing attack",
+        "typing": "flying",
+        "power": 8,
+        "energyDelta": 9,
+        "damageWindowStartMs": 550,
+        "damageWindowEndMs": 750,
+        "durationMs": 800
+    },
+    {
+        "name": "peck",
+        "typing": "flying",
+        "power": 10,
+        "energyDelta": 10,
+        "damageWindowStartMs": 450,
+        "damageWindowEndMs": 900,
+        "durationMs": 1000
+    },
+    {
+        "name": "lick",
+        "typing": "ghost",
+        "power": 5,
+        "energyDelta": 6,
+        "damageWindowStartMs": 200,
+        "damageWindowEndMs": 500,
+        "durationMs": 500
+    },
+    {
+        "name": "shadow claw",
+        "typing": "ghost",
+        "power": 9,
+        "energyDelta": 6,
+        "damageWindowStartMs": 250,
+        "damageWindowEndMs": 500,
+        "durationMs": 700
+    },
+    {
+        "name": "vine whip",
+        "typing": "grass",
+        "power": 7,
+        "energyDelta": 6,
+        "damageWindowStartMs": 350,
+        "damageWindowEndMs": 600,
+        "durationMs": 600
+    },
+    {
+        "name": "razor leaf",
+        "typing": "grass",
+        "power": 13,
+        "energyDelta": 7,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 850,
+        "durationMs": 1000
+    },
+    {
+        "name": "mud shot",
+        "typing": "ground",
+        "power": 5,
+        "energyDelta": 7,
+        "damageWindowStartMs": 350,
+        "damageWindowEndMs": 550,
+        "durationMs": 600
+    },
+    {
+        "name": "ice shard",
+        "typing": "ice",
+        "power": 12,
+        "energyDelta": 12,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 900,
+        "durationMs": 1200
+    },
+    {
+        "name": "frost breath",
+        "typing": "ice",
+        "power": 10,
+        "energyDelta": 8,
+        "damageWindowStartMs": 450,
+        "damageWindowEndMs": 750,
+        "durationMs": 900
+    },
+    {
+        "name": "quick attack",
+        "typing": "normal",
+        "power": 8,
+        "energyDelta": 10,
+        "damageWindowStartMs": 250,
+        "damageWindowEndMs": 550,
+        "durationMs": 800
+    },
+    {
+        "name": "scratch",
+        "typing": "normal",
+        "power": 6,
+        "energyDelta": 4,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "durationMs": 500
+    },
+    {
+        "name": "tackle",
+        "typing": "normal",
+        "power": 5,
+        "energyDelta": 5,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "durationMs": 500
+    },
+    {
+        "name": "pound",
+        "typing": "normal",
+        "power": 7,
+        "energyDelta": 6,
+        "damageWindowStartMs": 340,
+        "damageWindowEndMs": 540,
+        "durationMs": 600
+    },
+    {
+        "name": "cut",
+        "typing": "normal",
+        "power": 5,
+        "energyDelta": 5,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "durationMs": 500
+    },
+    {
+        "name": "poison jab",
+        "typing": "poison",
+        "power": 10,
+        "energyDelta": 7,
+        "damageWindowStartMs": 200,
+        "damageWindowEndMs": 800,
+        "durationMs": 800
+    },
+    {
+        "name": "acid",
+        "typing": "poison",
+        "power": 9,
+        "energyDelta": 8,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 600,
+        "durationMs": 800
+    },
+    {
+        "name": "psycho cut",
+        "typing": "psychic",
+        "power": 5,
+        "energyDelta": 8,
+        "damageWindowStartMs": 370,
+        "damageWindowEndMs": 570,
+        "durationMs": 600
+    },
+    {
+        "name": "rock throw",
+        "typing": "rock",
+        "power": 12,
+        "energyDelta": 7,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 800,
+        "durationMs": 900
+    },
+    {
+        "name": "metal claw",
+        "typing": "steel",
+        "power": 8,
+        "energyDelta": 7,
+        "damageWindowStartMs": 430,
+        "damageWindowEndMs": 630,
+        "durationMs": 700
+    },
+    {
+        "name": "bullet punch",
+        "typing": "steel",
+        "power": 9,
+        "energyDelta": 10,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 900,
+        "durationMs": 900
+    },
+    {
+        "name": "water gun",
+        "typing": "water",
+        "power": 5,
+        "energyDelta": 5,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "durationMs": 500
+    },
+    {
+        "name": "splash",
+        "typing": "water",
+        "power": 0,
+        "energyDelta": 20,
+        "damageWindowStartMs": 1030,
+        "damageWindowEndMs": 1230,
+        "durationMs": 1730
+    },
+    {
+        "name": "water gun blastoise",
+        "typing": "water",
+        "power": 10,
+        "energyDelta": 6,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "durationMs": 1000
+    },
+    {
+        "name": "mud slap",
+        "typing": "ground",
+        "power": 18,
+        "energyDelta": 12,
+        "damageWindowStartMs": 1150,
+        "damageWindowEndMs": 1350,
+        "durationMs": 1400
+    },
+    {
+        "name": "zen headbutt",
+        "typing": "psychic",
+        "power": 12,
+        "energyDelta": 10,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "confusion",
+        "typing": "psychic",
+        "power": 20,
+        "energyDelta": 15,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1600
+    },
+    {
+        "name": "poison sting",
+        "typing": "poison",
+        "power": 5,
+        "energyDelta": 7,
+        "damageWindowStartMs": 375,
+        "damageWindowEndMs": 575,
+        "durationMs": 600
+    },
+    {
+        "name": "bubble",
+        "typing": "water",
+        "power": 12,
+        "energyDelta": 14,
+        "damageWindowStartMs": 750,
+        "damageWindowEndMs": 1000,
+        "durationMs": 1200
+    },
+    {
+        "name": "feint attack",
+        "typing": "dark",
+        "power": 10,
+        "energyDelta": 9,
+        "damageWindowStartMs": 750,
+        "damageWindowEndMs": 900,
+        "durationMs": 900
+    },
+    {
+        "name": "steel wing",
+        "typing": "steel",
+        "power": 11,
+        "energyDelta": 6,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 800,
+        "durationMs": 800
+    },
+    {
+        "name": "fire fang",
+        "typing": "fire",
+        "power": 12,
+        "energyDelta": 8,
+        "damageWindowStartMs": 640,
+        "damageWindowEndMs": 840,
+        "durationMs": 900
+    },
+    {
+        "name": "rock smash",
+        "typing": "fighting",
+        "power": 15,
+        "energyDelta": 10,
+        "damageWindowStartMs": 550,
+        "damageWindowEndMs": 800,
+        "durationMs": 1300
+    },
+    {
+        "name": "transform",
+        "typing": "normal",
+        "power": 0,
+        "energyDelta": 0,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 700,
+        "durationMs": 2230
+    },
+    {
+        "name": "counter",
+        "typing": "fighting",
+        "power": 12,
+        "energyDelta": 8,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 900,
+        "durationMs": 900
+    },
+    {
+        "name": "powder snow",
+        "typing": "ice",
+        "power": 6,
+        "energyDelta": 15,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1000,
+        "durationMs": 1000
+    },
+    {
+        "name": "close combat",
+        "typing": "fighting",
+        "power": 100,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2300,
+        "durationMs": 2300
+    },
+    {
+        "name": "dynamic punch",
+        "typing": "fighting",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2700
+    },
+    {
+        "name": "focus blast",
+        "typing": "fighting",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "durationMs": 3500
+    },
+    {
+        "name": "aurora beam",
+        "typing": "ice",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 3350,
+        "damageWindowEndMs": 3550,
+        "durationMs": 3550
+    },
+    {
+        "name": "charge beam",
+        "typing": "electric",
+        "power": 8,
+        "energyDelta": 15,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "volt switch",
+        "typing": "electric",
+        "power": 14,
+        "energyDelta": 21,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 900,
+        "durationMs": 1600
+    },
+    {
+        "name": "wild charge",
+        "typing": "electric",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2600
+    },
+    {
+        "name": "zap cannon",
+        "typing": "electric",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "durationMs": 3700
+    },
+    {
+        "name": "dragon tail",
+        "typing": "dragon",
+        "power": 15,
+        "energyDelta": 9,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "avalanche",
+        "typing": "ice",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2100,
+        "durationMs": 2700
+    },
+    {
+        "name": "air slash",
+        "typing": "flying",
+        "power": 14,
+        "energyDelta": 10,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1200,
+        "durationMs": 1200
+    },
+    {
+        "name": "brave bird",
+        "typing": "flying",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1600,
+        "durationMs": 2000
+    },
+    {
+        "name": "sky attack",
+        "typing": "flying",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1700,
+        "durationMs": 2000
+    },
+    {
+        "name": "sand tomb",
+        "typing": "ground",
+        "power": 60,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 4000,
+        "durationMs": 4000
+    },
+    {
+        "name": "rock blast",
+        "typing": "rock",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2100
+    },
+    {
+        "name": "infestation",
+        "typing": "bug",
+        "power": 10,
+        "energyDelta": 14,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "struggle bug",
+        "typing": "bug",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1500,
+        "durationMs": 1500
+    },
+    {
+        "name": "silver wind",
+        "typing": "bug",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 3500,
+        "durationMs": 3700
+    },
+    {
+        "name": "astonish",
+        "typing": "ghost",
+        "power": 8,
+        "energyDelta": 14,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "hex",
+        "typing": "ghost",
+        "power": 10,
+        "energyDelta": 16,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1200,
+        "durationMs": 1200
+    },
+    {
+        "name": "night shade",
+        "typing": "ghost",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2500,
+        "durationMs": 2600
+    },
+    {
+        "name": "iron tail",
+        "typing": "steel",
+        "power": 15,
+        "energyDelta": 7,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "gyro ball",
+        "typing": "steel",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3300,
+        "durationMs": 3300
+    },
+    {
+        "name": "heavy slam",
+        "typing": "steel",
+        "power": 70,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1900,
+        "durationMs": 2100
+    },
+    {
+        "name": "fire spin",
+        "typing": "fire",
+        "power": 14,
+        "energyDelta": 10,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "overheat",
+        "typing": "fire",
+        "power": 160,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2600,
+        "damageWindowEndMs": 3800,
+        "durationMs": 4000
+    },
+    {
+        "name": "bullet seed",
+        "typing": "grass",
+        "power": 8,
+        "energyDelta": 14,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "grass knot",
+        "typing": "grass",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2600
+    },
+    {
+        "name": "energy ball",
+        "typing": "grass",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3800,
+        "durationMs": 3900
+    },
+    {
+        "name": "extrasensory",
+        "typing": "psychic",
+        "power": 12,
+        "energyDelta": 12,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "futuresight",
+        "typing": "psychic",
+        "power": 120,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2700
+    },
+    {
+        "name": "mirror coat",
+        "typing": "psychic",
+        "power": 60,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2300,
+        "damageWindowEndMs": 2500,
+        "durationMs": 2600
+    },
+    {
+        "name": "outrage",
+        "typing": "dragon",
+        "power": 110,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 3700,
+        "durationMs": 3900
+    },
+    {
+        "name": "snarl",
+        "typing": "dark",
+        "power": 12,
+        "energyDelta": 14,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "durationMs": 1100
+    },
+    {
+        "name": "crunch",
+        "typing": "dark",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 3000,
+        "durationMs": 3200
+    },
+    {
+        "name": "foul play",
+        "typing": "dark",
+        "power": 70,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "durationMs": 2000
+    },
+    {
+        "name": "hidden power fighting",
+        "typing": "fighting",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power flying",
+        "typing": "flying",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power poison",
+        "typing": "poison",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power ground",
+        "typing": "ground",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power rock",
+        "typing": "rock",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power bug",
+        "typing": "bug",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power ghost",
+        "typing": "ghost",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power steel",
+        "typing": "steel",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power fire",
+        "typing": "fire",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power water",
+        "typing": "water",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power grass",
+        "typing": "grass",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power electric",
+        "typing": "electric",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power psychic",
+        "typing": "psychic",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power ice",
+        "typing": "ice",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power dragon",
+        "typing": "dragon",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "hidden power dark",
+        "typing": "dark",
+        "power": 15,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "durationMs": 1500
+    },
+    {
+        "name": "take down",
+        "typing": "normal",
+        "power": 8,
+        "energyDelta": 10,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 1100,
+        "durationMs": 1200
+    },
+    {
+        "name": "waterfall",
+        "typing": "water",
+        "power": 16,
+        "energyDelta": 8,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 1100,
+        "durationMs": 1200
+    },
+    {
+        "name": "surf",
+        "typing": "water",
+        "power": 65,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1700
+    },
+    {
+        "name": "draco meteor",
+        "typing": "dragon",
+        "power": 150,
+        "energyDelta": 100,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "durationMs": 3600
+    },
+    {
+        "name": "doom desire",
+        "typing": "steel",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1700
+    },
+    {
+        "name": "yawn",
+        "typing": "normal",
+        "power": 0,
+        "energyDelta": 15,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1700
+    },
+    {
+        "name": "psycho boost",
+        "typing": "psychic",
+        "power": 70,
+        "energyDelta": 50,
+        "damageWindowStartMs": 3500,
+        "damageWindowEndMs": 4000,
+        "durationMs": 4000
+    },
+    {
+        "name": "origin pulse",
+        "typing": "water",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1700
+    },
+    {
+        "name": "precipice blades",
+        "typing": "ground",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1700
+    },
+    {
+        "name": "present",
+        "typing": "normal",
+        "power": 5,
+        "energyDelta": 20,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1300,
+        "durationMs": 1300
+    },
+    {
+        "name": "weather ball fire",
+        "typing": "fire",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1350,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1600
+    },
+    {
+        "name": "weather ball ice",
+        "typing": "ice",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1350,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1600
+    },
+    {
+        "name": "weather ball rock",
+        "typing": "rock",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1350,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1600
+    },
+    {
+        "name": "weather ball water",
+        "typing": "water",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1350,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1600
+    },
+    {
+        "name": "frenzy plant",
+        "typing": "grass",
+        "power": 100,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2145,
+        "damageWindowEndMs": 2550,
+        "durationMs": 2600
+    },
+    {
+        "name": "smack down",
+        "typing": "rock",
+        "power": 16,
+        "energyDelta": 8,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1100,
+        "durationMs": 1200
+    },
+    {
+        "name": "blast burn",
+        "typing": "fire",
+        "power": 110,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2750,
+        "damageWindowEndMs": 3200,
+        "durationMs": 3300
+    },
+    {
+        "name": "hydro cannon",
+        "typing": "water",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1900
+    },
+    {
+        "name": "last resort",
+        "typing": "normal",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2700,
+        "damageWindowEndMs": 2850,
+        "durationMs": 2900
+    },
+    {
+        "name": "meteor mash",
+        "typing": "steel",
+        "power": 100,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2300,
+        "damageWindowEndMs": 2500,
+        "durationMs": 2600
+    },
+    {
+        "name": "skull bash",
+        "typing": "normal",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2300,
+        "durationMs": 3100
+    },
+    {
+        "name": "acid spray",
+        "typing": "poison",
+        "power": 20,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2800,
+        "durationMs": 3000
+    },
+    {
+        "name": "earth power",
+        "typing": "ground",
+        "power": 100,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2700,
+        "damageWindowEndMs": 3400,
+        "durationMs": 3600
+    },
+    {
+        "name": "crabhammer",
+        "typing": "water",
+        "power": 85,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1750,
+        "durationMs": 1900
+    },
+    {
+        "name": "lunge",
+        "typing": "bug",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2400,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2900
+    },
+    {
+        "name": "crush claw",
+        "typing": "normal",
+        "power": 0,
+        "energyDelta": 0,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1700,
+        "durationMs": 1900
+    },
+    {
+        "name": "octazooka",
+        "typing": "water",
+        "power": 50,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 1600,
+        "durationMs": 2300
+    },
+    {
+        "name": "mirror shot",
+        "typing": "steel",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2200,
+        "durationMs": 2400
+    },
+    {
+        "name": "super power",
+        "typing": "fighting",
+        "power": 85,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2800,
+        "durationMs": 3000
+    },
+    {
+        "name": "fell stinger",
+        "typing": "bug",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2200
+    },
+    {
+        "name": "leaf tornado",
+        "typing": "grass",
+        "power": 45,
+        "energyDelta": 33,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2600,
+        "durationMs": 3100
+    },
+    {
+        "name": "leech life",
+        "typing": "bug",
+        "power": 0,
+        "energyDelta": 0,
+        "damageWindowStartMs": 1150,
+        "damageWindowEndMs": 1400,
+        "durationMs": 2500
+    },
+    {
+        "name": "drain punch",
+        "typing": "fighting",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1500,
+        "durationMs": 2400
+    },
+    {
+        "name": "shadow bone",
+        "typing": "ghost",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2250,
+        "damageWindowEndMs": 2700,
+        "durationMs": 2800
+    },
+    {
+        "name": "muddy water",
+        "typing": "water",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1900,
+        "durationMs": 2200
+    },
+    {
+        "name": "blaze kick",
+        "typing": "fire",
+        "power": 45,
+        "energyDelta": 33,
+        "damageWindowStartMs": 450,
+        "damageWindowEndMs": 800,
+        "durationMs": 1200
+    },
+    {
+        "name": "razor shell",
+        "typing": "water",
+        "power": 45,
+        "energyDelta": 33,
+        "damageWindowStartMs": 650,
+        "damageWindowEndMs": 1000,
+        "durationMs": 1300
+    },
+    {
+        "name": "power up punch",
+        "typing": "fighting",
+        "power": 50,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "durationMs": 2000
+    },
+    {
+        "name": "charm",
+        "typing": "fairy",
+        "power": 20,
+        "energyDelta": 11,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1200,
+        "durationMs": 1500
+    },
+    {
+        "name": "giga impact",
+        "typing": "normal",
+        "power": 200,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2400,
+        "durationMs": 4700
+    },
+    {
+        "name": "frustration",
+        "typing": "normal",
+        "power": 10,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1800,
+        "durationMs": 2000
+    },
+    {
+        "name": "return",
+        "typing": "normal",
+        "power": 35,
+        "energyDelta": 33,
+        "damageWindowStartMs": 100,
+        "damageWindowEndMs": 350,
+        "durationMs": 700
+    },
+    {
+        "name": "synchronoise",
+        "typing": "psychic",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1600,
+        "durationMs": 2600
+    },
+    {
+        "name": "lock on",
+        "typing": "normal",
+        "power": 1,
+        "energyDelta": 6,
+        "damageWindowStartMs": 170,
+        "damageWindowEndMs": 300,
+        "durationMs": 300
+    },
+    {
+        "name": "thunder fang",
+        "typing": "electric",
+        "power": 12,
+        "energyDelta": 16,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 900,
+        "durationMs": 1200
+    },
+    {
+        "name": "ice fang",
+        "typing": "ice",
+        "power": 12,
+        "energyDelta": 20,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 1000,
+        "durationMs": 1500
+    },
+    {
+        "name": "horn drill",
+        "typing": "normal",
+        "power": 9000,
+        "energyDelta": 25,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 1500,
+        "durationMs": 1900
+    },
+    {
+        "name": "fissure",
+        "typing": "ground",
+        "power": 9001,
+        "energyDelta": 25,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2300,
+        "durationMs": 2800
+    },
+    {
+        "name": "sacred sword",
+        "typing": "fighting",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 1000,
+        "durationMs": 1200
+    },
+    {
+        "name": "flying press",
+        "typing": "fighting",
+        "power": 110,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2300
+    },
+    {
+        "name": "aura sphere",
+        "typing": "fighting",
+        "power": 90,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1800
+    },
+    {
+        "name": "payback",
+        "typing": "dark",
+        "power": 100,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2200
+    },
+    {
+        "name": "rock wrecker",
+        "typing": "rock",
+        "power": 110,
+        "energyDelta": 50,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2700,
+        "durationMs": 3600
+    },
+    {
+        "name": "aeroblast",
+        "typing": "flying",
+        "power": 180,
+        "energyDelta": 100,
+        "damageWindowStartMs": 3200,
+        "damageWindowEndMs": 3400,
+        "durationMs": 3400
+    },
+    {
+        "name": "techno blast normal",
+        "typing": "normal",
+        "power": 120,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2000
+    },
+    {
+        "name": "techno blast burn",
+        "typing": "fire",
+        "power": 120,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2000
+    },
+    {
+        "name": "techno blast chill",
+        "typing": "ice",
+        "power": 120,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2000
+    },
+    {
+        "name": "techno blast water",
+        "typing": "water",
+        "power": 120,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2000
+    },
+    {
+        "name": "techno blast shock",
+        "typing": "electric",
+        "power": 120,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2000
+    },
+    {
+        "name": "fly",
+        "typing": "flying",
+        "power": 80,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1500,
+        "durationMs": 1800
+    },
+    {
+        "name": "v create",
+        "typing": "fire",
+        "power": 95,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2500,
+        "durationMs": 2800
+    },
+    {
+        "name": "leaf storm",
+        "typing": "grass",
+        "power": 130,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1250,
+        "durationMs": 2500
+    },
+    {
+        "name": "tri attack",
+        "typing": "normal",
+        "power": 75,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2400,
+        "durationMs": 2500
+    },
+    {
+        "name": "gust",
+        "typing": "flying",
+        "power": 25,
+        "energyDelta": 20,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2000
+    },
+    {
+        "name": "incinerate",
+        "typing": "fire",
+        "power": 29,
+        "energyDelta": 20,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 2300,
+        "durationMs": 2300
+    },
+    {
+        "name": "feather dance",
+        "typing": "flying",
+        "power": 35,
+        "energyDelta": 50,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2500,
+        "durationMs": 2800
+    },
+    {
+        "name": "fairy wind",
+        "typing": "fairy",
+        "power": 9,
+        "energyDelta": 13,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 970,
+        "durationMs": 970
+    },
+    {
+        "name": "weather ball normal",
+        "typing": "normal",
+        "power": 55,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1350,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1600
+    },
+    {
+        "name": "psychic fangs",
+        "typing": "psychic",
+        "power": 30,
+        "energyDelta": 33,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 1100,
+        "durationMs": 1200
+    },
+    {
+        "name": "double kick",
+        "typing": "fighting",
+        "power": 10,
+        "energyDelta": 13,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 800,
+        "durationMs": 1000
+    },
+    {
+        "name": "magical leaf",
+        "typing": "grass",
+        "power": 16,
+        "energyDelta": 16,
+        "damageWindowStartMs": 750,
+        "damageWindowEndMs": 1300,
+        "durationMs": 1400
+    },
+    {
+        "name": "sacred fire",
+        "typing": "fire",
+        "power": 120,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "durationMs": 2600
+    },
+    {
+        "name": "icicle spear",
+        "typing": "ice",
+        "power": 60,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1800,
+        "durationMs": 2200
+    },
+    {
+        "name": "aeroblast plus",
+        "typing": "flying",
+        "power": 200,
+        "energyDelta": 100,
+        "damageWindowStartMs": 3200,
+        "damageWindowEndMs": 3400,
+        "durationMs": 3400
+    },
+    {
+        "name": "aeroblast plus plus",
+        "typing": "flying",
+        "power": 225,
+        "energyDelta": 100,
+        "damageWindowStartMs": 3200,
+        "damageWindowEndMs": 3400,
+        "durationMs": 3400
+    },
+    {
+        "name": "sacred fire plus",
+        "typing": "fire",
+        "power": 135,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "durationMs": 2600
+    },
+    {
+        "name": "sacred fire plus plus",
+        "typing": "fire",
+        "power": 155,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "durationMs": 2600
+    },
+    {
+        "name": "acrobatics",
+        "typing": "flying",
+        "power": 100,
+        "energyDelta": 100,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 1700,
+        "durationMs": 2000
+    },
+    {
+        "name": "luster purge",
+        "typing": "psychic",
+        "power": 100,
+        "energyDelta": 100,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 1500,
+        "durationMs": 1500
+    },
+    {
+        "name": "mist ball",
+        "typing": "psychic",
+        "power": 105,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1700,
+        "durationMs": 2000
+    },
+    {
+        "name": "brutal swing",
+        "typing": "dark",
+        "power": 65,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1900
+    },
+    {
+        "name": "rollout",
+        "typing": "rock",
+        "power": 14,
+        "energyDelta": 18,
+        "damageWindowStartMs": 960,
+        "damageWindowEndMs": 1200,
+        "durationMs": 1400
+    },
+    {
+        "name": "seed flare",
+        "typing": "grass",
+        "power": 120,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 2600,
+        "durationMs": 2700
+    },
+    {
+        "name": "obstruct",
+        "typing": "dark",
+        "power": 20,
+        "energyDelta": 33,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 1600,
+        "durationMs": 1700
+    },
+    {
+        "name": "shadow force",
+        "typing": "ghost",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "durationMs": 1900
+    },
+    {
+        "name": "meteor beam",
+        "typing": "rock",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1900,
+        "durationMs": 1900
+    },
+    {
+        "name": "fusion bolt",
+        "typing": "electric",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1250,
+        "damageWindowEndMs": 1800,
+        "durationMs": 2000
+    },
+    {
+        "name": "fusion flare",
+        "typing": "fire",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2200
+    },
+    {
+        "name": "poltergeist",
+        "typing": "ghost",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 2800,
+        "damageWindowEndMs": 3000,
+        "durationMs": 3600
+    },
+    {
+        "name": "high horsepower",
+        "typing": "ground",
+        "power": 110,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1200,
+        "durationMs": 1600
+    },
+    {
+        "name": "glaciate",
+        "typing": "ice",
+        "power": 160,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2500,
+        "durationMs": 2500
+    },
+    {
+        "name": "breaking swipe",
+        "typing": "dragon",
+        "power": 35,
+        "energyDelta": 33,
+        "damageWindowStartMs": 270,
+        "damageWindowEndMs": 700,
+        "durationMs": 800
+    },
+    {
+        "name": "boomburst",
+        "typing": "normal",
+        "power": 140,
+        "energyDelta": 100,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2300
+    },
+    {
+        "name": "double iron bash",
+        "typing": "steel",
+        "power": 70,
+        "energyDelta": 33,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2000,
+        "durationMs": 2000
+    }
+]

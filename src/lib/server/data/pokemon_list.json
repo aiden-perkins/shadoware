@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Pikachu",
+        "fastMove": "Thunder Shock",
+        "chargedMove": "Thunderbolt",
+        "dps": 10.5,
+        "tdo": 250,
+        "er": 80
+    },
+    {
+        "name": "Charizard",
+        "fastMove": "Fire Spin",
+        "chargedMove": "Blast Burn",
+        "dps": 15.8,
+        "tdo": 450,
+        "er": 90
+    },
+    {
+        "name": "Blastoise",
+        "fastMove": "Water Gun",
+        "chargedMove": "Hydro Pump",
+        "dps": 12.6,
+        "tdo": 350,
+        "er": 85
+    }
+]
